@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\mgalazka\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(93): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej: wynik
+  ConsoleApplication3.vcxproj -> C:\Users\mgalazka\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
